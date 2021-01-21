@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 21 12:25:53 2021
 
-@author: acer
-"""
 import numpy as np
 #1.生成一個等差數列，首數為 0，尾數為 20，公差為 1 的數列。
 a = np.arange(0,21,1)
